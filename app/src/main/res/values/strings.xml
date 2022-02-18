@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FtHelloWorld</string>
+    <string name="label_name">Hello bzzzzzzzz!</string>
+    <string name="hello">hello</string>
 </resources>
